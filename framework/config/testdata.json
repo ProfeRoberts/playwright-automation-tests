@@ -1,0 +1,9 @@
+{
+  "loginSuccessMessage": "Welcome to the Secure Area. When you are done click logout below.",
+  "successfulBasicAuthMessage": "Congratulations! You must have the proper credentials.",
+  "fileForUpload": "../a1qa-js-playwright-framework-unit_5_practice_tasks/tests/resources/test.txt",
+  "downloadFileName": "Images.txt",
+  "alertSuccessMessage": "You successfully clicked an alert",
+  "username": "Luis",
+  "password": "pwd"
+}
